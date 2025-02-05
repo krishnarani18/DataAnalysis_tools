@@ -1,10 +1,10 @@
 # Data Analysis Tools on Iris Dataset
 
-Project Overview
+**Project Overview**
 
 To gain hands-on experience in data analysis and visualization by building a tool to analyze and visualize the Iris dataset, providing insights into the characteristics of different Iris species.
 
-Tools Used:
+**Tools Used:**
 
 Python: The primary programming language for data manipulation and analysis.
 
@@ -14,11 +14,11 @@ Matplotlib: A library for creating static, interactive, and animated visualizati
 
 Plotly: A library for creating interactive and publication-quality figures.
 
-Data Source:
+**Data Source:**
 
 The Iris dataset, a well-known benchmark dataset in machine learning, containing measurements of sepal and petal length and width for 150 iris flowers belonging to three species: Setosa, Versicolor, and Virginica.
 
-Key Insights:
+**Key Insights:**
 
 Species Separation: The dataset reveals distinct differences between the three Iris species based on their sepal and petal measurements.
 
@@ -28,13 +28,13 @@ Data Distribution: The distribution of sepal and petal measurements varies acros
 
 Potential for Classification: The clear separation between species suggests that machine learning models can be trained to accurately classify Iris flowers based on their measurements.
 
-Visualizations:
+**Visualizations:**
 
 Scatter Plots: Visualizing sepal length vs. sepal width, petal length vs. petal width, and other combinations of features, color-coded by species, revealed clear clusters and separations between the three species.
 
 Histograms and Box Plots: These visualizations helped to understand the distribution of each feature within and across species, revealing differences in their central tendencies and spread.
 
-Conclusion
+**Conclusion:**
 
 The Iris dataset provides a valuable benchmark for exploring data analysis and visualization techniques.
 The project demonstrated the power of Python libraries like pandas, matplotlib, and Plotly for data exploration and visualization.
